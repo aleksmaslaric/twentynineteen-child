@@ -1,0 +1,29 @@
+/*
+ Theme Name:   Twenty Nineteen Child
+ Theme URI:    localhost/wordpress/
+ Description:  Twenty Nineteen Child Theme
+ Author:       Aleksander Maslarić
+ Author URI:   localhost
+ Template:     twentynineteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentynineteenchild
+*/
+
+
+/* Sprememba velikosti in barve naslova strani */
+
+.site-title {
+    background-color: #FF0000;
+    font-size: 3rem;
+}
+
+
+/* Sprememba velikosti pisave in barve ozadja class-a .site-info, ki se nahaja v nogi */
+
+.site-info {
+    background-color: #33381F;
+    font-size: 7rem;
+}
